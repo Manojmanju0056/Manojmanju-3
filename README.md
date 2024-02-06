@@ -44,3 +44,9 @@ PlatinumToken (MNT) is a simple ERC-20 token smart contract built on the Ethereu
 ## License
 
 This smart contract is released under the MIT License. See the SPDX-License-Identifier tag in the contract source code for details.
+
+## Author 
+Manoj 
+
+manjumanoj0056@gmail.com
+
